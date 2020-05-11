@@ -22,7 +22,7 @@ We will continue fostering the growth of this DAO, and allow others to use a sim
 
 Immediate next steps include:
   * Continue community development and onboarding
-  * Create a voting schedule to agree upon
+  * Sollidify a voting schedule 
   * Drive engagement via UX improvements
 
 In the short time since launch we've managed to raise thousands of DAI and will fund initiatives across three different continents beginning this week. Small steps forward toward a more decentralized governance!

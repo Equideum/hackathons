@@ -18,5 +18,12 @@ Oboarding Link: https://forum.collab19.live/t/collab19-onboarding-guide/22
 Proposals Submitted: https://forum.collab19.live/c/funding-proposals/6
 
 ## Plan for moving the project forward after the event
-This project will continue moving forward. In the short time since launch we've managed to raise thousands of DAI from the previous Gitcoin CLR and already have the opportunity to fund initiatives across three different continents. We will continue fostering the growth of this DAO, and allow others to use a similar system in their own community.
+We will continue fostering the growth of this DAO, and allow others to use a similar system in their own communities and initiatives. 
+
+Immediate next steps include:
+  * Continue community development and onboarding
+  * Create a voting schedule to agree upon
+  * Drive engagement via UX improvements
+
+In the short time since launch we've managed to raise thousands of DAI and will fund initiatives across three different continents beginning this week. Small steps forward toward a more decentralized governance!
 

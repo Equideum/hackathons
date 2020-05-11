@@ -10,12 +10,14 @@ Outside organizations and contacts that advised or offered guidance: n/a
 
 https://github.com/abridged/dao-help/blob/master/README.md
 
-## Videos
-Overview and Demo: https://www.youtube.com/watch?v=6v6lzHSMoIY
+## Videos and Relevant Links
+Overview and Demo Video: https://www.youtube.com/watch?v=6v6lzHSMoIY
 
-Oboarding Link: https://forum.collab19.live/t/collab19-onboarding-guide/22
+Onboarding Guide: https://forum.collab19.live/t/collab19-onboarding-guide/22
 
-Proposals Submitted: https://forum.collab19.live/c/funding-proposals/6
+Active Proposals: https://forum.collab19.live/c/funding-proposals/6
+
+Telegram Bot: https://t.me/collab19_bot
 
 ## Plan for moving the project forward after the event
 We will continue fostering the growth of this DAO, and allow others to use a similar system in their own communities and initiatives. 

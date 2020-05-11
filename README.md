@@ -6,6 +6,10 @@ Hackathon Team Members: James Duncan, James Young, Alok Tiwari (special thanks t
 
 Outside organizations and contacts that advised or offered guidance: n/a
 
+## Codebase and WiP Repo
+
+https://github.com/abridged/dao-help/blob/master/README.md
+
 ## Videos
 Overview and Demo: https://www.youtube.com/watch?v=6v6lzHSMoIY
 

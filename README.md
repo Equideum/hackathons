@@ -1,8 +1,6 @@
 # Collab19
 
-Project Name: Collab19
-
-Hackathon Team Members: James Duncan, James Young, Alok Tiwari (special thanks to Eric Chung, Jonathan Dunlap, and Burrrata).
+Team Members: James Duncan, James Young, Alok Tiwari (special thanks to Eric Chung, Jonathan Dunlap, and Burrrata).
 
 Outside organizations and contacts that advised or offered guidance: n/a
 

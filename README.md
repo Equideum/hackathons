@@ -11,3 +11,4 @@ https://www.youtube.com/watch?v=J-KNWKElGRo
 - https://github.com/bowhead/smartcontracts
 
 ## PDF
+https://github.com/bowhead/hackathons/raw/master/BOWHEAD%20HEALTH%20COVID-19.pdf
